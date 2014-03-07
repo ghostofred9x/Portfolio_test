@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {margin:0px;
+		padding:0px;
+		border:0px;
+}
+
+
+body{background:#ab2e2e;
+			
+		
+}
+#top_border{
+			width:90px;
+}
+#top_logo{
+			background: url(logo_redesign.png)  no-repeat top center;
+			height:175px;
+			width:550px;
+			margin:0px 0px 0px 95px;
+			
+}
+
+
+#wrapper{background: #ffffff   repeat-x top ;
+
+			width:750px;
+			border: #000000  thin  ridge;
+			margin:0px 400px 0px 450px;
+			height:auto;
+}
+
+
+
+#nav_left{background:url(images/nav_bar_02.png) no-repeat;
+			height:50px;
+			width:20px;
+			float:left;
+}
+
+#nav_center{background:url(images/nav_bar02_03.png) repeat-x;
+			height:50px;
+			width:450px;
+			float:left;
+			text-align:center;
+}
+
+
+#nav_right{background:url(images/nav_bar01_04.png) no-repeat;
+			height:50px;
+			width:24px;
+			margin:0px 0px 0px 200px;
+}
+
+
+#nav{margin:0px 0px 100px 120px;
+		color:white;
+}
+
+#nav a:link,
+#nav a:active,
+#nav a:visited {color:white;
+
+
+}
+
+
+#mysubmit{ background:#fddede;
+			border:thin solid #ab2e2e 1px;
+}
+
+
+#login_table{ margin:0px 0px 30px 245px;
+}
+
+
+
+#header{ text-align:center;
+		margin:20px 0px 20px 0px;
+}
